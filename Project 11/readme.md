@@ -28,5 +28,7 @@
 Соответствия тем источников темам карточек - абсолютные величины
 Важность: все графики имеют равную важность.
 
+Ссылка - https://public.tableau.com/app/profile/sergei.kadochnikov/viz/ProjectSK/Dashboard2?publish=yes 
+
 Навыки и инструменты
 Python, Pandas, SQLAlchemy, Tableau Public, дашборд, пайплайн
